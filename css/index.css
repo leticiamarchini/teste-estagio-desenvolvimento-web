@@ -1,0 +1,37 @@
+.background {
+  background-color: #26272b;
+}
+.primaria {
+  color: #6c63ff;
+}
+
+.paragrafo {
+  color: #929292;
+}
+
+.imagem {
+  width: 100%;
+}
+
+.botao {
+  width: 100%;
+  background-color: #6c63ff;
+  color: white;
+  font-weight: bold;
+  border: none;
+}
+.campo-de-texto {
+  background-color: #26272b;
+  border: 1px solid #929292;
+  padding: 10px;
+}
+
+.rodape {
+  background-color: #36373c;
+}
+
+.texto-rodape {
+  color: #fdfdfd;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
